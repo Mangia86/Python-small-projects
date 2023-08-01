@@ -5,7 +5,7 @@ df = pd.read_excel('Quiz.xlsx', sheet_name = 0) #Read the excel file as a data s
 questions=list(df['Questions']) #define list variable based on the Questions Column from the excel file. It will be s
 answers=(list(df['Answers']))#define list variable based on the Answers Column from the excel file
 
-#print(df)
+##print(df)
 #print(questions)
 #print(answers)
 
