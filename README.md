@@ -24,7 +24,7 @@ The assignments are completed using python.
 
 1. [Rock, paper, scissors]⛰🧻✂
 2. [Dice generator]🎲🎲
-3. [Quizz](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Multi-class_Classification_and_Neural_Networks.ipynb)🗺🌏
+3. [Quizz](https://github.com/Mangia86/Python-small-projects/tree/main/Quizz)🗺🌏
 
 
 
