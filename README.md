@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-[(https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 # 💭 **About this repository_**
