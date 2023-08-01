@@ -3,7 +3,7 @@
   <br>
 
   <br>
-  <B>Small prohects with Python for beginners</B>
+  <B>Small projects with Python for beginners</B>
 
   <br>
 </h1>
