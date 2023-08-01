@@ -24,7 +24,7 @@ The assignments are completed using python.
 
 1. [Rock, paper, scissors]⛰🧻✂
 2. [Dice generator]🎲🎲
-3. [Quizz](https://github.com/Mangia86/Python-small-projects/tree/main/Quizz)🗺🌏
+3. [Quiz](https://github.com/Mangia86/Python-small-projects/tree/main/Quiz)🗺🌏
 
 
 
