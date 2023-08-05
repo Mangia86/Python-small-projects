@@ -23,7 +23,7 @@
 The assignments are completed using python. 
 </p>
 
-1. [Rock, paper, scissors]⛰🧻✂
+1. [Rock, paper, scissors](https://github.com/Mangia86/Python-small-projects/tree/main/Rock%20paper%20and%20scissors)⛰🧻✂
 2. [Dice generator]🎲🎲
 3. [Quiz](https://github.com/Mangia86/Python-small-projects/tree/main/Quiz)🗺🌏
 
